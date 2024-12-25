@@ -1,2 +1,2 @@
 say-hello:
-	@uv run say-hello
+	@echo 'Hello, World!'
