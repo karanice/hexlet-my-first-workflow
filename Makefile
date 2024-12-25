@@ -1,2 +1,2 @@
 say-hello:
-	uv run hello.py
+	@uv run say-hello
